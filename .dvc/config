@@ -1,5 +1,0 @@
-[core]
-    autostage = true
-    remote = origin
-['remote "origin"']
-    url = https://dagshub.com/di3go-sona/xai-workbench.dvc
